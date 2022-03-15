@@ -1,0 +1,21 @@
+
+.blog-post {
+    border: 1px solid black;
+    height: 300px;
+    width: 500px;
+   /* text-align: top; */
+}
+#txt-Display{
+    min-height: 300px;
+    width: 500px;
+}
+#Color-post{
+    width: 250px;
+}
+#BackColor-post{
+    width: 250px;
+}
+#btn-Create{
+    width: 500px;
+    height: 50px;
+}
